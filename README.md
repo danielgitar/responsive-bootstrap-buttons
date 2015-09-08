@@ -1,8 +1,6 @@
 # Creating elegant responsive Bootstrap buttons
 
-Russ Weakley shows you how to create elegant responsive Bootstrap buttons.
-
-**[Sitepoint article](https://learnable.com/screencasts/borders-on-bootstrap-columns)**
+Russ Weakley shows you how to create elegant responsive Bootstrap buttons including overcoming white-space issues and hiding content at various screen sizes.
 
 This code example is free to use as needed.
 
